@@ -1,26 +1,28 @@
+---
+description: Official recruitment documentation
+---
+
 # Dreamteam
+
 ### Where your journey begins
 
 ## Introduction
 
-Welcome to the official recruitment portal of Dreamteam.
-Recruitment into the club is currently possible only through our official recruitment drives — **Genesis** and **Aux**.
+Welcome to the official recruitment portal of Dreamteam. Recruitment into the club is currently possible only through our official recruitment drives — **Genesis** and **Aux**.
 
-**Genesis** is our primary recruitment drive, aimed at freshers and S3 students. It offers the fastest path to club membership and is conducted at the beginning of each academic year.
-[**Phase II**](recruitment/aux.md) serves as the final opportunity to gain membership in the club.
+**Genesis** is our primary recruitment drive, aimed at freshers and S3 students. It offers the fastest path to club membership and is conducted at the beginning of each academic year. [**Phase II**](recruitment/aux.md) serves as the final opportunity to gain membership in the club.
 
-Selection into the club requires completing a predefined set of tasks assigned during the drive.  
+Selection into the club requires completing a predefined set of tasks assigned during the drive.\
 These tasks are designed to evaluate:
 
-- Resilience
-- Willingness to learn
-- Innovation
-- **The urge to be the best**
+* Resilience
+* Willingness to learn
+* Innovation
+* **The urge to be the best**
 
 ## Our Philosophy
 
-As a club with a strong corporate focus, our goal is to develop industry-ready professionals of tomorrow.
-We do not exclusively seek experts. Instead, we value individuals who are willing to put in consistent effort, take ownership of their responsibilities, and make the most out of every task assigned.
+As a club with a strong corporate focus, our goal is to develop industry-ready professionals of tomorrow. We do not exclusively seek experts. Instead, we value individuals who are willing to put in consistent effort, take ownership of their responsibilities, and make the most out of every task assigned.
 
 This process also helps us assess your genuine interest in Computer Science as a discipline.
 
