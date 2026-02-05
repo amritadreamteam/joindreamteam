@@ -2,9 +2,7 @@
 
 ## About
 
-Phase II serves as the final opportunity for students to be recruited into the club. It is conducted exclusively for students progressing into **S2** and **S4**. Interested candidates must apply through the forms provided below and complete the assigned tasks.
-
-\
+Phase II serves as the final opportunity for students to be recruited into the club. It is conducted exclusively for students progressing into **S2** and **S4**. Interested candidates must apply through the forms provided below and complete the assigned tasks.\
 Selection is based on both the **number of tasks completed** and the **quality of submissions**.
 
 ## Requirements
@@ -15,13 +13,7 @@ Selection is based on both the **number of tasks completed** and the **quality o
 * Candidates are strictly required to use **Linux or macOS** for all tasks.
 * Proficiency in basic Linux commands and system usage will be assessed during the interview.
 
-## Task List
-
-1. Social Handles
-2. Git Exercises
-3. Automate the Boring Stuff with Python
-4. Front-end Development
-5. Back-end Development
+[Task repository](https://www.github.com/amritadreamteam/phase-II-2025)&#x20;
 
 ## Relevant Material
 
