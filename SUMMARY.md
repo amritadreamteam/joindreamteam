@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Join Dreamteam](README.md)
+* [Join Dream Team](README.md)
 
 ## RECRUITMENT
 
