@@ -4,7 +4,7 @@
 
 ## RECRUITMENT
 
-* [Phase II](recruitment/phasetwo.md)
+* [Genesis Phase-II](recruitment/phasetwo.md)
 * [Eligibility Criteria](recruitment/eligibility.md)
 * [Rules](recruitment/rules.md)
 * [FAQs](recruitment/faqs.md)
