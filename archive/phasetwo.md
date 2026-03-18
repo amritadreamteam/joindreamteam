@@ -2,7 +2,7 @@
 description: S2 and S4
 ---
 
-# Genesis Phase-II
+# genesis-2025-phase-II
 
 ## About
 
@@ -23,5 +23,5 @@ Selection is based on both the **number of tasks completed** and the **quality o
 * **February 11, 2026:** Application forms released, Contest begins.
 * Applicants will be added to the discord server in the meanwhile.
 * **February 15, 2026:** Application deadline (forms close at **11:59 PM dot.**)
-* **March 7, 2026:** Contest ends; candidates submit GitHub repositories via forms.
-* **Interviews :** Dates to be announced.
+* **March 12, 2026:** Contest ends; candidates submit GitHub repositories via forms.
+* **Interviews :** March 17, 2026 - March 19, 2026.
