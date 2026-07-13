@@ -10,5 +10,5 @@
 
 ## ARCHIVE
 
-* [genesis-2025](archive/genesis-2025.md)
+* [genesis-2025-phase-1](archive/genesis-2025.md)
 * [genesis-2025-phase-II](archive/phasetwo.md)
